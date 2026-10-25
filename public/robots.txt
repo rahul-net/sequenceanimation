@@ -1,0 +1,4 @@
+# Published robots for https://rahul-net.github.io/sequenceanimation/ (site.siteUrl).
+User-agent: *
+Allow: /
+Sitemap: https://rahul-net.github.io/sequenceanimation/sitemap.xml

@@ -1,0 +1,7 @@
+<!-- Procedural concept placeholder artwork — not the artist's own work. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Concept placeholder artwork: Still Water">
+<rect width="800" height="500" fill="#121714"/>
+<rect x="16" y="16" width="768" height="468" fill="none" stroke="#2a332d" stroke-width="2"/>
+<path d="M60 140 Q 220 100, 400 140 T 740 140" fill="none" stroke="#67c58b" stroke-width="3" opacity="0.9"/><path d="M60 190 Q 220 150, 400 190 T 740 190" fill="none" stroke="#67c58b" stroke-width="3" opacity="0.75"/><path d="M60 240 Q 220 200, 400 240 T 740 240" fill="none" stroke="#67c58b" stroke-width="3" opacity="0.6000000000000001"/><path d="M60 290 Q 220 250, 400 290 T 740 290" fill="none" stroke="#67c58b" stroke-width="3" opacity="0.45000000000000007"/>
+<text x="40" y="452" font-family="monospace" font-size="20" letter-spacing="4" fill="#888f89">CONCEPT PLACEHOLDER</text>
+</svg>

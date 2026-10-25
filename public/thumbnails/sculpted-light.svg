@@ -1,0 +1,7 @@
+<!-- Procedural concept placeholder artwork — not the artist's own work. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Concept placeholder artwork: Sculpted Light">
+<rect width="800" height="500" fill="#121714"/>
+<rect x="16" y="16" width="768" height="468" fill="none" stroke="#2a332d" stroke-width="2"/>
+<polygon points="400,40 520,340 280,340" fill="#163c2b" stroke="#67c58b" stroke-width="2"/><circle cx="400" cy="180" r="46" fill="#b9e4c8" opacity="0.85"/>
+<text x="40" y="452" font-family="monospace" font-size="20" letter-spacing="4" fill="#888f89">CONCEPT PLACEHOLDER</text>
+</svg>

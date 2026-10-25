@@ -1,0 +1,7 @@
+<!-- Procedural profile artwork placeholder — not a real photograph. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-label="Profile artwork placeholder">
+<rect width="800" height="1000" fill="#121714"/>
+<ellipse cx="400" cy="420" rx="170" ry="200" fill="#163c2b" stroke="#67c58b" stroke-width="3"/>
+<path d="M180 880 Q 400 620, 620 880 Z" fill="#191f1b" stroke="#2a332d" stroke-width="2"/>
+<text x="400" y="960" text-anchor="middle" font-family="monospace" font-size="20" letter-spacing="4" fill="#888f89">ARTWORK PLACEHOLDER</text>
+</svg>

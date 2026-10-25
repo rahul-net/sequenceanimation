@@ -1,0 +1,7 @@
+<!-- Procedural concept placeholder artwork — not the artist's own work. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-label="Concept placeholder artwork: Paper Orchard">
+<rect width="800" height="500" fill="#121714"/>
+<rect x="16" y="16" width="768" height="468" fill="none" stroke="#2a332d" stroke-width="2"/>
+<circle cx="220" cy="200" r="90" fill="none" stroke="#67c58b" stroke-width="3"/><circle cx="420" cy="170" r="70" fill="#163c2b" stroke="#b9e4c8" stroke-width="2"/><circle cx="580" cy="230" r="55" fill="#67c58b" opacity="0.7"/>
+<text x="40" y="452" font-family="monospace" font-size="20" letter-spacing="4" fill="#888f89">CONCEPT PLACEHOLDER</text>
+</svg>

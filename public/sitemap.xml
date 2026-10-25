@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Published sitemap for https://rahul-net.github.io/sequenceanimation/ (site.siteUrl).
+     NOTE on HashRouter: the site's real addresses are hash URLs
+     (https://rahul-net.github.io/sequenceanimation/#/works/slug). Search engines generally do not
+     index hash fragments as separate pages, so this sitemap lists the
+     hash URLs as they actually resolve; if deep-page indexing matters,
+     switch to BrowserRouter plus host-side rewrites instead (see README). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://rahul-net.github.io/sequenceanimation/</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works/emerald-ribbon-study</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works/quiet-geometry</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works/sculpted-light</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works/still-water</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works/title-sequence-sketch</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works/monochrome-garden</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/works/paper-orchard</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/about</loc></url>
+  <url><loc>https://rahul-net.github.io/sequenceanimation/#/contact</loc></url>
+</urlset>

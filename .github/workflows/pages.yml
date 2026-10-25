@@ -1,3 +1,8 @@
+# GitHub Pages deployment for this Vite + HashRouter site.
+# Project site for repo rahul-net/sequenceanimation, published at
+# https://rahul-net.github.io/sequenceanimation/ (base /sequenceanimation/).
+# No secrets are used: the build needs no API key, and nothing secret is
+# bundled into the client. No custom domain is configured.
 name: Deploy to GitHub Pages
 
 on:
@@ -23,12 +28,24 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Build
+        # Project site base for rahul-net/sequenceanimation.
+        env:
+          VITE_BASE_PATH: /sequenceanimation/
+        run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "."
+          path: dist
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

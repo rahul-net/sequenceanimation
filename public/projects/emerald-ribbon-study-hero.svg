@@ -1,0 +1,7 @@
+<!-- Procedural concept placeholder artwork — not the artist's own work. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 800 500" role="img" aria-label="Concept placeholder artwork: Emerald Ribbon Study">
+<rect width="800" height="500" fill="#121714"/>
+<rect x="16" y="16" width="768" height="468" fill="none" stroke="#2a332d" stroke-width="2"/>
+<path d="M80 260 C 200 60, 300 320, 420 160 S 620 90, 720 210 L 680 240 C 600 150, 520 300, 420 220 S 220 310, 120 280 Z" fill="#67c58b" opacity="0.9"/><path d="M90 250 C 200 70, 310 310, 425 165" fill="none" stroke="#b9e4c8" stroke-width="3" opacity="0.8"/>
+<text x="40" y="452" font-family="monospace" font-size="20" letter-spacing="4" fill="#888f89">CONCEPT PLACEHOLDER</text>
+</svg>
