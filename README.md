@@ -4,7 +4,7 @@ A polished, mobile-first static portfolio site for Sequence Animation,
 a Bengali story channel. No build step, no backend, no API keys.
 
 - GitHub repo: **rahul-net/sequenceanimation** (public)
-- GitHub Pages URL: to be added here once the Pages deployment is verified live.
+- GitHub Pages URL (verified live, HTTP 200): https://rahul-net.github.io/sequenceanimation/
 - Adding this portfolio link to YouTube and Facebook is a separate next step,
   after Pages is verified — it has NOT been added to YouTube or Facebook yet.
 
